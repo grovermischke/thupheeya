@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://keeghiecoh.aliciacollymore.com/sitemap.xml
